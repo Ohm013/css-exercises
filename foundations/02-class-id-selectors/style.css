@@ -1,17 +1,18 @@
 /* style.css */
 
-p {
+.Odd {
     background-color: rgb(228, 133, 133);
-    font-family:"Verdana", DejaVu Sans, sans-serif ;
+    font-family:Verdana, "DejaVu Sans", sans-serif ;
 
-    .3 {
-        font-size: 24px ;
+    .Odd.change-font-size {
+        font-size: 24px;
     
     }
 
 }
 
-div { 
-
+#two { 
+        color:blue;
+        font-size: 36px ;
 
 }
