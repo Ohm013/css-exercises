@@ -4,12 +4,13 @@
     background-color: rgb(228, 133, 133);
     font-family:Verdana, "DejaVu Sans", sans-serif ;
 
-    .Odd.change-font-size {
+    }
+
+    .change-font-size {
         font-size: 24px;
     
     }
 
-}
 
 #two { 
         color:blue;
