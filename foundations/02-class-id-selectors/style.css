@@ -6,14 +6,20 @@
 
     }
 
-    .change-font-size {
+.change-font-size {
         font-size: 24px;
     
-    }
+}
 
 
 #two { 
         color:blue;
         font-size: 36px ;
+
+}
+
+#four {
+    background-color: rgb(181, 223, 172) ;
+    font-weight: bold ;
 
 }
